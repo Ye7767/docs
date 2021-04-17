@@ -1,4 +1,4 @@
----
+(---
 title: Deleting your user account
 intro: 'You can delete your {% data variables.product.product_name %} user account at any time.'
 redirect_from:
